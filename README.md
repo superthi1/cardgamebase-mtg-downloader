@@ -1,9 +1,9 @@
 # A cardgamebase.com deck downloader for MTG
 ---
 
-A very simple script that allows users to download [cardgamebase](https://cardgamebase.com/) MTG decks.
+A very simple script that allows users to download [cardgamebase](https://cardgamebase.com/) MTG decks (as images).
 
-It iterates through the webpage, and downloads the images associated with each deck from their respective sources.
+It iterates through the webpage, and downloads the images associated with each card from their respective sources.
 
 # Usage
 You need `python` installed.
