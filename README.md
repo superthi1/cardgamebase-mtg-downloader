@@ -15,7 +15,7 @@ source .venv/bin/activate # or windows equivalent
 
 pip install -r requirements.txt
 
-python3 download-decks.py
+python3 download-decks.py --help
 ```
 
 
